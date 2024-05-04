@@ -46,7 +46,6 @@ namespace BookingSystem.Presentation.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
             }
 
-
         }
 
     }
